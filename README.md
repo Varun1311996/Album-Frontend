@@ -1,1 +1,2 @@
-# Album-Frontend
+# tutorial-frontend
+Tutorial Vue frontend
